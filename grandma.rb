@@ -24,4 +24,4 @@ def speak_to_grandma(phrase)
   end
 end
 
-puts "hola".upcase
+puts "HOLA".upcase
